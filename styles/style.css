@@ -376,12 +376,12 @@
 }
 
 .footer__column_content_hours {
-  padding: 0;
-  margin-right: -720px;
+  margin-left: auto;
+  margin-right: 80px;
 }
 
 .footer__column_content_social {
-  margin-right: 80px;
+  margin-right: 0px;
 }
 
 .footer__logo {
