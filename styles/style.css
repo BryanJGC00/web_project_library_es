@@ -369,17 +369,19 @@
 
 .footer__columns {
   display: flex;
-  justify-content: space-between;
   align-items: flex-start;
 }
 
+.footer__column {
+}
+
 .footer__column_content_hours {
-  margin-left: auto;
-  margin-right: 80px;
+  padding: 0;
+  margin-right: -720px;
 }
 
 .footer__column_content_social {
-  right: 80px;
+  margin-right: 80px;
 }
 
 .footer__logo {
@@ -419,6 +421,5 @@
 
 .footer__copyright {
   text-align: left;
-  margin-top: 60px;
-  font-size: 14px;
+  margin-top: 100px;
 }
